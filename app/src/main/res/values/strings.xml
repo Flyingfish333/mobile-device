@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">COM6510_assignment</string>
+    <string name="maps">MAPS</string>
+    <string name="title_activity_show_image">Image detail</string>
+    <string name="delete">Delete</string>
+    <string name="save">Update</string>
+    <string name="default_image_title">Unspecified title</string>
+    <string name="map_search">Search</string>
+</resources>
